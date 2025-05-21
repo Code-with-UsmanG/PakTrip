@@ -31,4 +31,4 @@ This is the first official release of the PakTrip Android app. Key features incl
 - Booking system integration
 - User reviews feature
 
-Download the APK below and start exploring!
+[Download the APK below and start exploring!](https://github.com/Code-with-UsmanG/PakTrip/releases/tag/v1.0.0)
