@@ -2,7 +2,7 @@
 **First Official Release**  
 
 📱 **PakTrip - Explore Bahawalpur's Hidden Gems** 
- This repository contains the apk file for PakTrip app, showcasing ancient monuments to enhance tourism. The app features a clean, responsive design, smooth animations, and interactive elements to provide a professional and engaging user experience.
+This repository contains the apk file for PakTrip app, showcasing ancient monuments to enhance tourism. The app features a clean, responsive design, smooth animations, and interactive elements to provide a professional and engaging user experience.
 
 ### Release Notes
 - First stable APK release
@@ -11,7 +11,7 @@
 - Attraction details with photos
 - Darkt theme support
 
-###Features & Functionalities:
+### Features & Functionalities:
 
 This is the first official release of the PakTrip Android app. Key features include:
 
