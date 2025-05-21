@@ -1,5 +1,5 @@
 # PakTrip v1.0.0
-**First Official Release**  
+**First Official Pre-release**  
 
 📱 **PakTrip - Explore Bahawalpur's Hidden Gems** 
 
